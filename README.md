@@ -1,16 +1,37 @@
-## Hi there 👋
+# Keshav Kumar
 
-<!--
-**KeshavKumar13/keshavkumar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System Engineer | Infrastructure & Cloud Operations
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Infrastructure Engineer with 4+ years of experience supporting enterprise Windows, Linux, VMware, Hyper-V and Azure environments.
+
+### Technologies
+
+- Windows Server
+- Linux (RHEL / SUSE)
+- VMware ESXi / vCenter
+- Hyper-V
+- Microsoft Azure
+- Active Directory
+- PowerShell
+- Bash
+- Python
+- Zabbix
+- PRTG
+
+### Current Focus
+
+- Infrastructure Automation
+- Azure Administration
+- PowerShell Tooling
+- Linux Operations
+- VMware Administration
+
+### Certifications
+
+- AZ-104 (In Progress)
+
+### Connect
+
+LinkedIn: <your-linkedin-url>
